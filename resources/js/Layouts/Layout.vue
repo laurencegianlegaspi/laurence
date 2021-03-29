@@ -72,7 +72,7 @@
 
             <div class="flex items-center px-4 -mx-2">
                 <img class="object-cover mx-2 rounded-full h-9 w-9" src="https://scontent.fmnl9-2.fna.fbcdn.net/v/t1.0-9/119041447_2692977354283606_5818500454884328300_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFeIwqoX9B38Ho1N2IiAvke082GntwnOvLTzYae3Cc68ocRO-ssoafmhGs9HIWe0LBr8M5G2LjXGKYc97pnKPYi&_nc_ohc=m_1TrHszpUMAX_T1bFt&_nc_ht=scontent.fmnl9-2.fna&oh=d60841a5790c60e020eaa70e63c86b13&oe=6085555C" alt="avatar">
-                <h4 class="mx-2 font-medium text-gray-800 dark:text-gray-200 hover:underline">Laurence Gian Legaspi</h4>
+                <h4 class="mx-2 font-medium text-gray-800 dark:text-gray-200 hover:underline">Legaspi Laurence Gian </h4>
             </div>
         </div>
     </div>
